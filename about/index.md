@@ -1,3 +1,5 @@
-# Hình như là...
+---
+title: Hình như là
+---
 
-Có một cậu coder đang tập viết :grinning:
+Có một cậu coder đang tập viết...
