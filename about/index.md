@@ -3,5 +3,6 @@ title: ai mà biết được
 ---
 
 ## Hình như là
-Có một cậu coder đang tập viết...
+
+Có một thằng coder đang tập viết... [chuyện vặt](/).
 
